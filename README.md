@@ -1,5 +1,5 @@
 # PROYECTO
-git init
+git initial commit
 git add README.md
 git commit -m "first commit"
 git branch -M main
